@@ -7,3 +7,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 # Project tutorial
 
 https://laraveldaily.com/lesson/laravel-beginners/db-structure-migrations-env-config
+
+
+test
